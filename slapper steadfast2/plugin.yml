@@ -2,7 +2,7 @@ name: Slapper
 author: pooooooon
 version: 1.0.0
 description: Adds entities into your world that you can slap to run commands!
-main: slapper-steadfast2\Main
+main: slappersteadfast2\Main
 api: [1.12.0]
 website: https://github.com/pooooooon/slapper-steadfast2
 
